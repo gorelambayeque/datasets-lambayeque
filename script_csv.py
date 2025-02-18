@@ -6,7 +6,7 @@ from unidecode import unidecode
 # Cargar el archivo CSV
 #df = pd.read_csv('ambiente/CO2/dataset_dioxido.csv', dtype={'FECHA_CORTE': str}, sep=';', encoding='utf-8')
 #df = pd.read_csv('ambiente/NO2/MONITOREO_CALIDAD_DEL_AIRE.csv', dtype={'FECHA_CORTE': str})
-#df = pd.read_csv('ambiente/SO2/MONITOREO_CALIDAD_AIRE.csv')
+#df = pd.read_csv('ambiente/SO2/MONITOREO_CALIDAD_DEL_AIRE.csv')
 #df = pd.read_csv('ambiente/PM2.5/MONITOREO_CALIDAD_AIRE.csv')
 df = pd.read_csv('ambiente/PM10/MONITOREO_DE_CALIDAD_AIRE.csv')
 
