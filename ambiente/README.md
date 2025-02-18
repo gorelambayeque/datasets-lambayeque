@@ -1,6 +1,9 @@
-Los siguientes Datasets corresponden a información sobre la **Calidad del aire**, registrados por la Dirección General de Salud Ambiental, comprendidos entre los años 2000 al 2019. Estos datos fueron publicados por DIGESA en su propia plataforma web. Los datos aquí pertenecen especificamente de la región LAMBAYEQUE, a travez de su MONITOREO PUNTUAL HISTÓRICO DE CALIDAD DEL AIRE, tal como lo indica el repositorio. Cada Dataset contiene información detallada sobre la concentración de cada contaminante a lo largo del período.  
+Los siguientes Datasets corresponden a información sobre la **Calidad del aire**, registrados por la Dirección General de Salud Ambiental, comprendidos entre los años 2000 al 2019. Estos datos fueron publicados por DIGESA en su propia plataforma web. Los datos aquí pertenecen especificamente de la región LAMBAYEQUE, a travez de su MONITOREO PUNTUAL HISTÓRICO DE CALIDAD DEL AIRE, tal como lo indica el repositorio. 
+
+Cada Dataset contiene información detallada sobre la concentración de cada contaminantea lo largo del período. Los datos están organizados por departamento, provincia, distritio, año, metodología y concentración (µg/m³).
 
 El dataset se clasifica por el indice de contaminación del aire:  
+- CO2: Dioxido de carbono en el aire
 - NO2: Dióxido de nitrógeno en el aire   
 - PM2.5: Partículas finas del aire
 - PM10: Partículas gruesas del aire
@@ -21,6 +24,7 @@ El dataset se clasifica por el indice de contaminación del aire:
 Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabajar con estos.  
 
 **Los datasets están conformados por las siguientes columnas:**  
+- **Para el Dioxido de carbono (CO2)**
 ✅FECHA_CORTE:	Día en que se generó el DATASET
 ✅ANIO: Año en el que se generaron las correspondientes emisiones.
 ✅SECTOR: Uno de los cuatro sectores principales de emisiones según las Directrices del IPCC de 2006: Energía, Industria.
@@ -34,4 +38,16 @@ Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momen
 ✅OXIDO_NITROSO_GGN2O:	Emisiones de óxido nitroso (N2O) expresadas en gigagramos de N2O.
 ✅OXIDO_NITROSO_EQUIVALENTE_GGCO2EQ:	Emisiones de óxido nitroso expresadas en dióxido de carbono equivalentes (CO2eq).
 ✅HFC_GGCO2EQ:	Emisiones de hidrofluorocarbonos (HFCs) expresadas en dióxido de carbono equivalentes (CO2eq).
-✅EMISIONES_GEI_GGCO2EQ:	Emisiones totales de gases de efecto invernadero, incluyendo CO2, CH4, N2O y HFC, expresadas en dióxido de carbono equivalentes (CO2eq).
+✅EMISIONES_GEI_GGCO2EQ:	Emisiones totales de gases de efecto invernadero, incluyendo CO2, CH4, N2O y HFC, expresadas en dióxido de carbono equivalentes (CO2eq).  
+
+- **Para los demás contaminantes del aire**  
+✅DEPARTAMENTO: Región donde se sacó los datos (LAMBAYEQUE)
+✅PROVINCIA: Provincias relacionadas al departamento 
+✅DISTRITO: Distritos relacionados a cada provincia
+✅COD_VAL: valor del contaminante
+✅NOMBRE_ESTACION_VAL: Identifica el nombre de las 5 estaciones
+✅METODOLOGÍA: Tipo de metodología
+✅FECHA: Fecha en la que se realizó el dataset
+✅CONCENTRACIÓN (µg/m³): valor decimal de la concentración del contaminante en el aire
+✅AÑO: Año en la que se realizó el dataset
+
