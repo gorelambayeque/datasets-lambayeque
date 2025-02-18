@@ -10,14 +10,14 @@ El dataset se clasifica por el indice de contaminación del aire:
 - SO2: Dióxido de azufre en el aire
 
 **Fuentes:**   
-👉NO2   http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#NO2a
-👉PM2.5 http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#PM2a 
-👉PM10  http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#PM1a
-👉SO2   http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#SO2a  
+👉NO2   http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#NO2a  
+👉PM2.5 http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#PM2a   
+👉PM10  http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#PM1a  
+👉SO2   http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#SO2a    
 
-👉MINAM https://datosabiertos.gob.pe/dataset/inventario-nacional-de-emisiones-de-gases-de-efecto-invernadero-ministerio-del-ambiente
+👉MINAM https://datosabiertos.gob.pe/dataset/inventario-nacional-de-emisiones-de-gases-de-efecto-invernadero-ministerio-del-ambiente  
 
-**Fecha de actualización:**  
+**Fecha de actualización:**    
 👉 17/02/2025  
 
 **Estructura de datos:**   
