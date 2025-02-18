@@ -9,7 +9,7 @@ Los siguientes Datasets corresponden a información sobre el número de delitos 
 👉 17/02/2025  
 
 **Estructura de datos:**   
-Los archivos están en formatos: csv, xlsx y json.  
+Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabjar con estos.  
 
 **Los datasets están conformados por las siguientes columnas:**  
 ✅periodo_denuncia: Meses en que se realizó la denuncia del delito en el Ministerio Público   
