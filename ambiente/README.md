@@ -24,7 +24,7 @@ El dataset se clasifica por el indice de contaminación del aire:
 Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabajar con estos.  
 
 **Los datasets están conformados por las siguientes columnas:**  
-- **Para el Dioxido de carbono (CO2)**
+- **Para el Dioxido de carbono (CO2)**  
 ✅FECHA_CORTE:	Día en que se generó el DATASET
 ✅ANIO: Año en el que se generaron las correspondientes emisiones.
 ✅SECTOR: Uno de los cuatro sectores principales de emisiones según las Directrices del IPCC de 2006: Energía, Industria.
