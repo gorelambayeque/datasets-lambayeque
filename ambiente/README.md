@@ -25,29 +25,29 @@ Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momen
 
 **Los datasets están conformados por las siguientes columnas:**  
 - **Para el Dioxido de carbono (CO2)**  
-✅FECHA_CORTE:	Día en que se generó el DATASET
-✅ANIO: Año en el que se generaron las correspondientes emisiones.
-✅SECTOR: Uno de los cuatro sectores principales de emisiones según las Directrices del IPCC de 2006: Energía, Industria.
-✅CATEGORIA:	Categoría de las emisiones según la clasificación de las Directrices del IPCC de 2006.
-✅SUBCATEGORIA:	Subcategoría específica dentro de la categoría principal de emisiones.
-✅FUENTE_DE_EMISION:	Fuente específica de las emisiones.
-✅IPCC_CLASF:	Código clasificador estandarizado del IPCC para categorizar las fuentes de emisiones.
-✅DIOXIDO_DE_CARBONO_GGCO2:	Emisiones de dióxido de carbono (CO2) expresadas en gigagramos de CO2.
-✅METANO_GGCH4:	Emisiones de metano (CH4) expresadas en gigagramos de CH4.
-✅METANO_EQUIVALENTE_GGCO2EQ:	Emisiones de metano expresadas en dióxido de carbono equivalentes (CO2eq).
-✅OXIDO_NITROSO_GGN2O:	Emisiones de óxido nitroso (N2O) expresadas en gigagramos de N2O.
-✅OXIDO_NITROSO_EQUIVALENTE_GGCO2EQ:	Emisiones de óxido nitroso expresadas en dióxido de carbono equivalentes (CO2eq).
-✅HFC_GGCO2EQ:	Emisiones de hidrofluorocarbonos (HFCs) expresadas en dióxido de carbono equivalentes (CO2eq).
-✅EMISIONES_GEI_GGCO2EQ:	Emisiones totales de gases de efecto invernadero, incluyendo CO2, CH4, N2O y HFC, expresadas en dióxido de carbono equivalentes (CO2eq).  
+✅FECHA_CORTE:	Día en que se generó el dataset  
+✅ANIO: Año en el que se generaron las correspondientes emisiones  
+✅SECTOR: Uno de los cuatro sectores principales de emisiones según las Directrices del IPCC de 2006: Energía, Industria.  
+✅CATEGORIA:	Categoría de las emisiones según la clasificación de las Directrices del IPCC de 2006.  
+✅SUBCATEGORIA: Subcategoría específica dentro de la categoría principal de emisiones.  
+✅FUENTE_DE_EMISION:	Fuente específica de las emisiones.  
+✅IPCC_CLASF: Código clasificador estandarizado del IPCC para categorizar las fuentes de emisiones.  
+✅DIOXIDO_DE_CARBONO_GGCO2:	Emisiones de dióxido de carbono (CO2) expresadas en gigagramos de CO2.  
+✅METANO_GGCH4: Emisiones de metano (CH4) expresadas en gigagramos de CH4.  
+✅METANO_EQUIVALENTE_GGCO2EQ: Emisiones de metano expresadas en dióxido de carbono equivalentes (CO2eq)    
+✅OXIDO_NITROSO_GGN2O:	Emisiones de óxido nitroso (N2O) expresadas en gigagramos de N2O  
+✅OXIDO_NITROSO_EQUIVALENTE_GGCO2EQ:	Emisiones de óxido nitroso expresadas en dióxido de carbono equivalentes (CO2eq)  
+✅HFC_GGCO2EQ:	Emisiones de hidrofluorocarbonos (HFCs) expresadas en dióxido de carbono equivalentes (CO2eq)  
+✅EMISIONES_GEI_GGCO2EQ:	Emisiones totales de gases de efecto invernadero, incluyendo CO2, CH4, N2O y HFC, expresadas en dióxido de carbono equivalentes (CO2eq)  
 
 - **Para los demás contaminantes del aire**  
-✅DEPARTAMENTO: Región donde se sacó los datos (LAMBAYEQUE)
-✅PROVINCIA: Provincias relacionadas al departamento 
-✅DISTRITO: Distritos relacionados a cada provincia
-✅COD_VAL: valor del contaminante
-✅NOMBRE_ESTACION_VAL: Identifica el nombre de las 5 estaciones
-✅METODOLOGÍA: Tipo de metodología
-✅FECHA: Fecha en la que se realizó el dataset
-✅CONCENTRACIÓN (µg/m³): valor decimal de la concentración del contaminante en el aire
-✅AÑO: Año en la que se realizó el dataset
+✅DEPARTAMENTO: Región donde se sacó los datos (LAMBAYEQUE)  
+✅PROVINCIA: Provincias relacionadas al departamento    
+✅DISTRITO: Distritos relacionados a cada provincia  
+✅COD_VAL: valor del contaminante  
+✅NOMBRE_ESTACION_VAL: Identifica el nombre de las 5 estaciones  
+✅METODOLOGÍA: Tipo de metodología  
+✅FECHA: Fecha en la que se realizó el dataset  
+✅CONCENTRACIÓN (µg/m³): valor decimal de la concentración del contaminante en el aire  
+✅AÑO: Año en la que se realizó el dataset  
 
