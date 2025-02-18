@@ -1,7 +1,7 @@
 Fuentes:   
 👉INEI: https://datacrim.inei.gob.pe/panel/mapa#   
 👉Datos Abiertos: https://datosabiertos.gob.pe/dataset/registro-de-incidencias-observadas-mediante-la-central-de-c%C3%A1maras-y-videovigilancia-en-el  
-
+👉Datos Abiertos: https://datosabiertos.gob.pe/dataset/mpfn-delitos  
 👉INEI PDF: https://m.inei.gob.pe/biblioteca-virtual/boletines/estadisticas-de-seguridad-ciudadana/2/#lista    
 
 Fecha de actualización:  
