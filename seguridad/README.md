@@ -1,8 +1,7 @@
 Los siguientes Datasets corresponden a información sobre el **Número de delitos y sus tipos**, denunciados ante el Ministerio Público, comprendidos entre los años 2019 al 2023. Estos datos fueron publicados por el Ministerio Público Fiscalía de la Nación - MPFN en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 24/01/2024. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
 **Fuentes:**   
-👉INEI: https://datacrim.inei.gob.pe/panel/mapa#   
-👉MPCH: https://datosabiertos.gob.pe/dataset/registro-de-incidencias-observadas-mediante-la-central-de-c%C3%A1maras-y-videovigilancia-en-el  
+👉INEI: https://datacrim.inei.gob.pe/panel/mapa#    
 👉MPFN: https://datosabiertos.gob.pe/dataset/mpfn-delitos  
 
 **Fecha de actualización:**  
