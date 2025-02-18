@@ -4,7 +4,6 @@ Los siguientes Datasets corresponden a información sobre el número de delitos 
 👉INEI: https://datacrim.inei.gob.pe/panel/mapa#   
 👉Datos Abiertos: https://datosabiertos.gob.pe/dataset/registro-de-incidencias-observadas-mediante-la-central-de-c%C3%A1maras-y-videovigilancia-en-el  
 👉MPFN: https://datosabiertos.gob.pe/dataset/mpfn-delitos  
-👉INEI PDF: https://m.inei.gob.pe/biblioteca-virtual/boletines/estadisticas-de-seguridad-ciudadana/2/#lista    
 
 **Fecha de actualización:**  
 👉 17/02/2025  
@@ -12,7 +11,7 @@ Los siguientes Datasets corresponden a información sobre el número de delitos 
 **Estructura de datos:**   
 Los archivos están en formatos: csv, xlsx Y json.  
 
-**Los datasets tienen las siguientes columnas:**  
+**Los datasets están conformados por las siguientes columnas:**  
 ✅periodo_denuncia: Meses en que se realizó la denuncia del delito en el Ministerio Público   
 ✅anio_denuncia: año de la denuncia del delito en el Ministerio Público  
 ✅fecha_descarga: Fecha de descarga de la información en los sistema informáticos  
