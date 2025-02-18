@@ -30,4 +30,3 @@ Si tienes dudas, sugerencias o deseas colaborar en este proyecto, puedes escribi
 ---
 
 ¡Esperamos que estos datos sean de utilidad para tus proyectos e investigaciones! 🚀
-

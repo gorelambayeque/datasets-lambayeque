@@ -1,0 +1,41 @@
+[
+    {
+        "Provincia": "CHICLAYO",
+        "Casos": 398,
+        "%": 40.24,
+        "TIA x100 000 Hab": 44.86,
+        "Casos.1": 140,
+        "%.1": 58.58,
+        "TIA x100 000 Hab.1": 15.88,
+        "Casos en la SE 6 2025": 22,
+        "Defunciones": 0,
+        "Defunciones en la SE 6 2025": 0,
+        "Letalidad (%)": 0
+    },
+    {
+        "Provincia": "FERREÑAFE",
+        "Casos": 225,
+        "%": 22.75,
+        "TIA x100 000 Hab": 199.66,
+        "Casos.1": 33,
+        "%.1": 13.81,
+        "TIA x100 000 Hab.1": 29.15,
+        "Casos en la SE 6 2025": 4,
+        "Defunciones": 0,
+        "Defunciones en la SE 6 2025": 0,
+        "Letalidad (%)": 0
+    },
+    {
+        "Provincia": "LAMBAYEQUE",
+        "Casos": 366,
+        "%": 37.01,
+        "TIA x100 000 Hab": 98.81,
+        "Casos.1": 66,
+        "%.1": 27.62,
+        "TIA x100 000 Hab.1": 17.75,
+        "Casos en la SE 6 2025": 6,
+        "Defunciones": 0,
+        "Defunciones en la SE 6 2025": 0,
+        "Letalidad (%)": 0
+    }
+]
