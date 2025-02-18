@@ -1,4 +1,4 @@
-Los siguientes Datasets corresponden a información sobre la **Frecuencia de visitas turísticas**, registrados por el Servicio Nacional de Áreas Naturales Protegidas por el estado – SERNANP, comprendidos entre los años 2022 al 2023. Estos datos fueron publicados por el SERNANP en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 13/08/2024. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
+Los siguientes Datasets corresponden a información sobre la **Frecuencia de visitas turísticas**, registrados por el Servicio Nacional de Áreas Naturales Protegidas por el estado, comprendidos entre los años 2022 al 2023. Estos datos fueron publicados por el SERNANP en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 13/08/2024. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
 El dataset está caracterizado por:  
 - Datos de Área Natural Protegida: Nombre, Sector, Departamento, Provincia y Distrito  
@@ -10,7 +10,6 @@ El dataset está caracterizado por:
 
 **Fecha de actualización:**  
 👉 17/02/2025  
-
 
 **Estructura de datos:**   
 Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabajar con estos.  
