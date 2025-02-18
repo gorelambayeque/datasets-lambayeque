@@ -1,4 +1,5 @@
 Los siguientes Datasets corresponden a información sobre la **Calidad del aire**, registrados por la Dirección General de Salud Ambiental, comprendidos entre los años 2000 al 2019. Estos datos fueron publicados por DIGESA en su propia plataforma web. Los datos aquí pertenecen especificamente de la región LAMBAYEQUE, a travez de su MONITOREO PUNTUAL HISTÓRICO DE CALIDAD DEL AIRE, tal como lo indica el repositorio. 
+Los datos del CO2, los publicó el Ministerio del Ambiente - MINAM con el próposito de proporcionar una base de datos comprensiva que permita evaluar y monitorear las emisiones de Gases de Efecto Invernadero - GEI, facilitando el desarrollo de políticas y estrategias para mitigar el cambio climático. Estan disponibles en la Plataforma Nacional de Datos Abiertos del gobierno peruano.
 
 Cada Dataset contiene información detallada sobre la concentración de cada contaminantea lo largo del período. Los datos están organizados por departamento, provincia, distritio, año, metodología y concentración (µg/m³).
 
@@ -15,7 +16,7 @@ El dataset se clasifica por el indice de contaminación del aire:
 👉PM10  http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#PM1a  
 👉SO2   http://www.digesa.minsa.gob.pe/DCOVI/mapas/DIGESA_AIR_MR_CalidadAirePuntual_LAMBAYEQUE.html#SO2a    
 
-👉MINAM https://datosabiertos.gob.pe/dataset/inventario-nacional-de-emisiones-de-gases-de-efecto-invernadero-ministerio-del-ambiente  
+👉CO2 https://datosabiertos.gob.pe/dataset/inventario-nacional-de-emisiones-de-gases-de-efecto-invernadero-ministerio-del-ambiente  
 
 **Fecha de actualización:**    
 👉 17/02/2025  
