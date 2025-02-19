@@ -22,7 +22,7 @@ Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momen
 ✅DISTRITO: Distrito donde se encuentra ubicada el Área Natural Protegida  
 ✅UBIGEO: Código de ubicación geográfica donde se encuentra ubicada el Área Natural Protegida  
 ✅PROCEDENCIA: Procedencia de visitas extranjero, nacional y local  
-✅EDAD: Rango de edades: Infantes (menores de 5 años), Menores (entre 5 y 16 años), Adultos (entre 17 a 65 años) y Adultos mayores (superior de 65 años)  
+✅EDAD: Rango de edades en años: Infantes <5, Menores >= 5-16, Adultos >= 17-65 y Adultos mayores >65  
 ✅FECHA:	Fecha de ingreso al sector del Área Natural Protegida  
 ✅VISITAS_E1: Número de visitas con tiempo de estadía de 1 día  
 ✅VISITAS_E2A3: Número de visitas con tiempo de estadía de 2 a 3 días  
