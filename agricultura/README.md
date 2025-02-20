@@ -1,5 +1,5 @@
 Los siguientes Datasets corresponden a información sobre el **Componentes del agua, suelo y sedimentos, como el arsénico u otros**, registrados por el Organismo de Evaluación y Fiscalización Ambiental, comprendidos entre los años 2013 al 2019. Estos datos fueron publicados por la OEFA en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 14/02/2025.  
-El dataset metorológico comprende un histórico del año 2000 al 2015, y fueron publicados por el 👉SENAMHI en su plataforma web
+El dataset metorológico comprende un histórico de los años 2000 al 2015, y fueron publicados por el 👉SENAMHI en su plataforma web
 Los datos ya están normailizados y limpios, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
 **Identificación de pasivos ambientales del sector hidrocarburos (IPASH)**  
