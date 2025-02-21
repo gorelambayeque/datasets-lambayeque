@@ -4,17 +4,13 @@ Los datos ya están normailizados y limpios, se ha filtrado unicamente los regis
 
 **Identificación de pasivos ambientales del sector hidrocarburos (IPASH)**  
 1.- Componente Ambiental Suelo 🏞️  
--- Se evalúa la contaminación del suelo debido a derrames, filtraciones o residuos de hidrocarburos.  
--- Se analiza la presencia de hidrocarburos totales de petróleo (TPH), metales pesados, entre otros contaminantes.  
+-- Se evalúa la contaminación del suelo debido a derrames, filtraciones o residuos de hidrocarburos, metales pesados, entre otros compuestos.  
 
 2.- Componente Ambiental Sedimentos 🌊  
--- Se estudia la acumulación de contaminantes en los sedimentos de ríos, lagos o mares afectados por actividades de hidrocarburos, como el arsénico, etc.   
--- Permite identificar posibles fuentes de contaminación persistente en cuerpos de agua.  
+-- Se estudia la acumulación de contaminantes en los sedimentos del agua, como el arsénico, elemento químico dañino para la salud.    
 
 3.- Componente Ambiental Agua 💧  
--- Se analiza la calidad del agua en zonas afectadas por pasivos ambientales.  
--- Se miden parámetros como hidrocarburos disueltos, metales pesados y otros compuestos tóxicos.  
-
+-- Se analiza la calidad del agua en zonas afectadas por pasivos ambientales, hidrocarburos disueltos, metales pesados, entre otros compuestos.  
 
 **Fuentes:**   
 👉OEFA: https://datosabiertos.gob.pe/dataset/oefa-evaluaci%C3%B3n-ambiental-2   
