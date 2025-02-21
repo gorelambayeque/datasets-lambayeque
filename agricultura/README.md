@@ -26,7 +26,7 @@ Los datos ya están normailizados y limpios, se ha filtrado unicamente los regis
 **Estructura de datos:**   
 Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabajar con estos.  
 
-**Los datasets están conformados por las siguientes columnas:**  
+**Datasets de IPASH están conformados por las siguientes columnas:**  
 ✅Número de informe: Nombre del número del documento  
 ✅Nombre de la evaluación: Descripción de la evaluación  
 ✅Etapa: Etapa en la que se encuentra el informe
@@ -49,3 +49,12 @@ Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momen
 ✅Parámetro: Componente del agua(arsénico, antimonio, aluminio, etc)  
 ✅Unidad de medida: tipo de medida de componente  
 
+**Datasets METEOROLOGICOS están conformados por las siguientes columnas:**   
+✅provincia: Corresponde a las provincias de la región Lambayeque  
+✅distrito: Corresponde al distrito de cada provincia   
+✅año: Corresponde al año que se hizo el registro  
+✅mes: Corresponde al mes del año   
+✅dia: Corresponde al día de la semana   
+✅precipitacion_acumulada: Precipitación en decimales  
+✅temperatura_max: Temperatura máxima del clima        
+✅temperatura_min: Temperatura mínima del clima     
