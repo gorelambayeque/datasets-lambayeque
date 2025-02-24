@@ -1,13 +1,15 @@
 Los siguientes Datasets corresponden a información sobre la **Notificación de casos de Infecciones Respiratorias Agudas (IRA)**, al sistema de vigilancia en salud pública del Perú, administrado por el Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC PERU), comprendidos entre los años 2010 al 2023. Estos datos fueron publicados por el Red Nacional de Epidemiología (RENACE) en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 11/12/2024. El objetivo es  proporcionar información sobre la situación epidemiológica del **dengue en el Perú**, así como facilitar el acceso a los datos abiertos para fines de investigación, educación, prevención y control de esta enfermedad. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
-El dataset está caracterizado por:  
+El dataset de salud mental, corresponde a información del año 2017 EN LAMBAYEQUE, se explora registros atendidos y el tamizaje realizado. Estos datos fueron publicados por el MINSA en la Plataforma Nacional de Datos Abiertos.  
+
+Los datasets están caracterizados por:  
 - Datos de ubicación: departamento,provincia,distrito,ubigeo  
 - Fechas de registro: anio,semana  
 - Datos enfermedad: ira_no_neumonia,neumonias_men5,neumonias_60mas,hospitalizados_men5, hospitalizados_60mas    
 
 **Fuentes:**   
 👉 https://www.dge.gob.pe/sala-situacional-dengue/#grafico15    
-
+👉 https://datosabiertos.gob.pe/dataset/minsa-salud-mental     
 👉 https://datosabiertos.gob.pe/dataset/vigilancia-epidemiologica-de-infecciones-respiratoiras-agudas-ira  
 
 **Fecha de actualización:**  
