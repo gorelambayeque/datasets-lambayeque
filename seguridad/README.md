@@ -1,8 +1,12 @@
 Los siguientes Datasets corresponden a información sobre el **Número de delitos y sus tipos**, denunciados ante el Ministerio Público, comprendidos entre los años 2019 al 2023. Estos datos fueron publicados por el Ministerio Público Fiscalía de la Nación - MPFN en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 24/01/2024. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
+El dataset de **Trata de personas**, comprende información desde el año 2017 al 2023. La data fue publicada por el MININTER en su plataforma web de OBSERVATORIO NACIONAL, los datos ya están filtrados a la región LAMBAYEQUE.  
+
 **Fuentes:**   
 👉INEI: https://datacrim.inei.gob.pe/panel/mapa#    
 👉MPFN: https://datosabiertos.gob.pe/dataset/mpfn-delitos  
+👉MININTER: https://observatorio.mininter.gob.pe/content/base-de-datos    
+👉MININTER: https://observatorio.mininter.gob.pe/proyectos/base-de-datos-trata-de-personas    
 
 **Fecha de actualización:**  
 👉 17/02/2025  
