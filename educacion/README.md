@@ -1,18 +1,17 @@
 Los siguientes Datasets corresponden a información sobre la **Frecuencia de visitas turísticas**, registrados por el Servicio Nacional de Áreas Naturales Protegidas por el estado, comprendidos entre los años 2022 al 2023. Estos datos fueron publicados por el SERNANP en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 13/08/2024. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
-El datset de Educacion, se trata de la liusta de alumnos universitarios matriculados desde el año 2016 hasta el año 2022 en la 	
-Universidad Nacional de Ingeniería - UNI, la data fue publicada en la Plataforma Nacional de Datos Abiertos - PNDA, por la misma universidad.
+El datset de Educacion, se trata de la lista de las intituciones educativas y los servicios que estas brindan a la población, en la región d eLambayeque, la data fue publicada en la Plataforma de ESCALE (Estadística de Calidad Educativa), herramienta del Ministerio de Educación (Minedu) que ofrece información estadística sobre las instituciones educativas del Perú. 
 
 El dataset está caracterizado por:  
 - Datos de Área Natural Protegida: Nombre, Sector, Departamento, Provincia y Distrito  
 - Datos de turista: Procedencia, grupo de edad  
 - Frecuencia de visitas: Fecha de la visita, Estadía 1 día, de 2 a 3 días y 3 a 30 días.  
-- Datos de ubicación: departamento,provincia,distrito, residencia   
-- Datos de alumno: genero,nacionalidad,año nacimiento, ciclo relativo   
+- Datos de ubicación: ubigeo, departamento,provincia,distrito, residencia   
+- Datos de alumno: genero,nacionalidad,año nacimiento, centro poblado, latitud, longitud, altitud    
 
 **Fuentes:**   
 👉SERNANP: https://datosabiertos.gob.pe/dataset/frecuencia-de-visitas-tur%C3%ADsticas-en-las-%C3%A1reas-naturales-protegidas-por-el-estado-%E2%80%93-servicio  
-👉UNI: https://www.datosabiertos.gob.pe/dataset/alumnos-matriculados    
+👉ESCALE: https://sigmed.minedu.gob.pe/mapaeducativo/mapassee.aspx      
 
 **Fecha de actualización:**  
 👉 17/02/2025  
