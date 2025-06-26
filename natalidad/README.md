@@ -5,7 +5,7 @@ El dataset está caracterizado por:
 - Sector: establecimiento de salud, como minsa, essalud, etc.    
 - area: Identifica si es urbano o rural.    
 - Ubicación geográfica: departamento, provincia, distrito del neonato nacido.     
-- categoria: Categoria en la que esta el centro de alud donde nación el neonato.    
+- categoria: Categoria en la que esta el centro de salud donde nació el neonato.    
 
 **Estructura de datos:**   
 Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabajar con estos.  
