@@ -4,7 +4,7 @@ El dataset está caracterizado por:
 - Fechas: Año y mes de nacimiento, y fecha de data.  
 - Sector: establecimiento de salud, como minsa, essalud, etc.    
 - area: Identifica si es urbano o rural.    
-- Ubicación geográfica: departamento, provincia, distrito.     
+- Ubicación geográfica: departamento, provincia, distrito del neonato nacido.     
 - categoria: Categoria en la que esta el centro de alud donde nación el neonato.    
 
 **Estructura de datos:**   
