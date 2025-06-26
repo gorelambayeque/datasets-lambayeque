@@ -3,21 +3,19 @@ Los siguiente Datasets corresponde a información sobre la **Natalidad de person
 El dataset está caracterizado por:  
 - Fechas: Año y mes de nacimiento, y fecha de data.  
 - Sector: establecimiento de salud, como minsa, essalud, etc.    
-- area: Identifica si es urbano o rural.    
 - Ubicación geográfica: departamento, provincia, distrito del neonato nacido.     
-- categoria: Categoria en la que esta el centro de salud donde nació el neonato.    
 
 **Estructura de datos:**   
 Los archivos están en formatos: csv, xlsx y json, para mayor facilidad al momento de trabajar con estos.  
 
 **El dataset de Natalidad está conformado por las siguientes columnas:**  
 ✅anio: Número del año en que nacio el neonato  
-✅num_mes: numero de los meses del año, comprendidos de 01 - 12  
+✅num_mes: meses del año, comprendidos de 01 - 12 en los que nació el neonato  
 ✅departamento: departamento de procedencia del neonato    
 ✅provincia: provincia de procedencia del neonato   
 ✅distrito: distrito de procedencia del neonato 
 ✅sector: Establecimiento de salud, como minsa, essalud, etc. 
-✅area: Procedencia de visitas extranjero, nacional y local  
+✅area: Identifica si essu ubicación pertenece a zona urbana o rural.    
 ✅categoria: Identifica la categoria segun el minsa en la que se encuntra el centro de salud  
 ✅descrpcion: Detalle de la categoria  
 ✅cantidad: Número total de neonatos nacidos  
