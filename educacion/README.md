@@ -1,8 +1,16 @@
 Los siguientes Datasets corresponden a información sobre la **Frecuencia de visitas turísticas**, registrados por el Servicio Nacional de Áreas Naturales Protegidas por el estado, comprendidos entre los años 2022 al 2023. Estos datos fueron publicados por el SERNANP en la Plataforma Nacional de Datos Abiertos del gobierno peruano, con fecha del 13/08/2024. La data ya está limpia, se ha filtrado unicamente los registros de la región LAMBAYEQUE, tal como lo indica el repositorio.  
 
-El datset de Educacion, se trata de la lista de las intituciones educativas y los servicios que estas brindan a la población, en la región d eLambayeque, la data fue publicada en la Plataforma de ESCALE (Estadística de Calidad Educativa), herramienta del Ministerio de Educación (Minedu) que ofrece información estadística sobre las instituciones educativas del Perú. 
+El datset de Educacion, se trata de la lista de las intituciones educativas y los servicios que estas brindan a la población, en la región de Lambayeque, la data fue publicada en la Plataforma de ESCALE (Estadística de Calidad Educativa), herramienta del Ministerio de Educación (Minedu) que ofrece información estadística sobre las instituciones educativas del Perú. 
 
-El dataset está caracterizado por:  
+El dataset de educacion está caracetrizado por:
+- Fecha: Fecha de corte.  
+- Nombre SSEE: nombre del centro educativo o servicio educativo.    
+- Ubicación geográfica: Ubigeo, departamento, provincia, distrito, centro poblado,latitud, longitud, altitud, dirección de la IIEE.  
+- Modalidad: Indica si la institución educativa es inicial, primaria, etc.  
+- Dependencia: Indica el tipo de gestión de la IIEE, privada, publica, etc.    
+
+
+El dataset de turismo está caracterizado por:  
 - Datos de Área Natural Protegida: Nombre, Sector, Departamento, Provincia y Distrito  
 - Datos de turista: Procedencia, grupo de edad  
 - Frecuencia de visitas: Fecha de la visita, Estadía 1 día, de 2 a 3 días y 3 a 30 días.  
