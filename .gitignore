@@ -1,0 +1,15 @@
+/env
+.gitattributes
+script.py
+script_salud.py
+script_ambiente.py
+script_educacion.py
+script_seguridad.py
+script_agricultura.py
+/salud/mental/data_SALUD_MENTAL_TAMIZAJE.csv
+/salud/mental/data_SALUD_MENTAL_ATENDIDOS.csv
+
+/agricultura/
+/ambiente/NO2/
+/ambiente/PM2.5/
+/ambiente/PM2.5/
